@@ -1,0 +1,9 @@
+class Boy {
+    constructor () {
+
+    }
+
+    display() {
+        
+    }
+}
